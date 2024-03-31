@@ -1,1 +1,1 @@
-# Pomodoro-TImer-App
+# Pomodoro-GDSC
